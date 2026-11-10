@@ -68,7 +68,7 @@ See `CONTRIBUTING.md` for setup instructions and CI expectations.
 # License 
 Attribution 4.0 International
 
-=======================================================================
+=======================================
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and
 does not provide legal services or legal advice. Distribution of
@@ -121,4 +121,3 @@ exhaustive, and do not form part of our licenses.
 	wiki.creativecommons.org/Considerations_for_licensees
 ---
 Copyright © 2026 AnticipatedD. All Rights Reserved.
-Code
